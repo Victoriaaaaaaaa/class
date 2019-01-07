@@ -1,0 +1,105 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+  margin-bottom: 0;
+
+  background-image: url("https://0.soompi.io/wp-content/uploads/2018/02/05220947/DAY6-1.jpg?s=900x600&e=t");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+}
+
+header:hover {
+  padding: 154px 0 100px;
+  margin-bottom: 0;
+
+  background-image: url("https://post-phinf.pstatic.net/MjAxNzExMDNfMTEz/MDAxNTA5Njk1MTI4NjYz.q-d76SkzHu-tX9HI3VvoBXp4YJaub1YC0cSKQ3FE2z8g.002Zesqp7vQuaZuL2LZyPMAk91NHGRubwVZr2aG3r0kg.JPEG/6day6.jpg?type=w1200");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.Artist {
+  background-color: #DBF0F0;
+}
+
+.Member {
+  background-color: #82DEDB;
+}
+
+.Album {
+  background-color: #02D8D0;
+}
+
+.MV {
+  background-color: #00CAC2;
+}
+
+p {
+  font-family: 'Kalam', cursive;
+  font-size: 18pt;
+}
+
+h4,
+h5 {
+  font-family: 'Nanum Pen Script', cursive;
+  margin-bottom: 0px;
+}
+
+h6 {
+  font-family: 'Ropa Sans', sans-serif;
+  padding-top: 0px;
+}
+
+div,
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+  margin-bottom: 5%;
+}
+li {
+  font-family: 'Kalam', cursive;
+  font-size: 17pt;
+}
+
+
+.videoWrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+.videoWrap iframe, 
+.videoWrap object, 
+.videoWrap embed {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+@media (min-width: 992px) {
+  header {
+    padding: 300px 0 120px;
+  }
+
+  header:hover {
+    padding: 300px 0 120px;
+  }
+
+
+  section {
+    padding: 140px 0 140px;
+  }
+  
