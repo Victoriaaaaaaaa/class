@@ -1,0 +1,109 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+  margin-bottom: 0;
+
+  background-image: url("https://vignette.wikia.nocookie.net/kpop/images/8/81/DAY6_Unlock_promotional_photo.png/revision/latest?cb=20181025204809");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+}
+
+header:hover {
+  padding: 154px 0 100px;
+  margin-bottom: 0;
+
+  background-image: url("http://s3-ap-northeast-1.amazonaws.com/aop-emtg-jp/prod/public/day6/official/profile/ph_profile_201808.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+
+}
+
+.Artist {
+  background-color: #DBF0F0;
+}
+
+.Member {
+  background-color: rgb(190, 241, 239);
+}
+
+.Album {
+  background-color: rgb(177, 234, 248);
+}
+
+.SNS {
+  background-color: rgb(160, 216, 238);
+}
+
+.MV {
+  background-color: #DBF0F0;
+}
+
+p {
+  font-family: 'Kalam', cursive;
+  font-size: 18pt;
+}
+
+h4,
+h5 {
+  font-family: 'Nanum Pen Script', cursive;
+  margin-bottom: 0px;
+}
+
+h6 {
+  font-family: 'Ropa Sans', sans-serif;
+  padding-top: 0px;
+}
+
+div,
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+h2{
+  font-family: 'Permanent Marker', cursive;
+  margin-bottom: 5%;
+}
+li {
+  font-family: 'Nunito', sans-serif;
+  font-size: 17pt;
+}
+
+
+.videoWrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+.videoWrap iframe, 
+.videoWrap object, 
+.videoWrap embed {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+@media (min-width: 992px) {
+  header {
+    padding: 300px 0 120px;
+  }
+
+  header:hover {
+    padding: 300px 0 120px;
+  }
+
+
+  section {
+    padding: 140px 0 140px;
+  }
+  
